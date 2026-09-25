@@ -1,3 +1,5 @@
+# Hello👋, I am Kirandeep Kaur.
+
 # 💫 About Me:
 🎓 B.Tech CSE Student<br>💻 Aspiring MERN Stack Developer<br>⚛️ Learning JavaScript & React.js<br>🌐 Interested in Web Development<br>📚 Currently learning MERN Stack<br>🛠️ Love building real-world projects<br>
 
